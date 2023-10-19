@@ -24,7 +24,7 @@
 	대장금액은 22,101,960원으로 두 팀의 대장금액 합계의 차이는 1,581,895,102,030원 	이었습니다.
  
 <p align="center">
-  <img src="https://github.com/ChanNyoungLee/-/blob/master/%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%9D%B4%EB%AF%B8%EC%A7%801.png" width="600"/>
+  <img src="https://github.com/ChanNyoungLee/-/blob/master/%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%9D%B4%EB%AF%B8%EC%A7%801.png" width="400"/>
 </p>
 <br>
 
@@ -40,7 +40,7 @@
 	파악했습니다. 총 8가지의 처분 방법이 있었으며, 그 중에서 매각수의가 약 88.17%로 가장 	많았으며, 유상양여가 전체에서 1건인 약 0.0007%로 가장 적었습니다. 다른 방법들로는 	무상관리전환이 약 3.04%. 매각입찰이 약 6.25%, 유상관리전환이 약 0.08%, 무상양여가 약 	0.49%, 사용승인이 약 1.48%, 그리고 마지막으로 무상귀속이 0.5%로 나왔습니다.
 
  <p align="center">
-  <img src="https://github.com/ChanNyoungLee/-/blob/master/%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%9D%B4%EB%AF%B8%EC%A7%802.png" width="600"/>
+  <img src="https://github.com/ChanNyoungLee/-/blob/master/%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%9D%B4%EB%AF%B8%EC%A7%802.png" width="400"/>
 </p>
 <br>
 
